@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-# API Parking - Configuración e Instalación
+# API Parking
 
 ## Prerrequisitos
 
@@ -14,6 +14,7 @@
 - NestJs
 - PostgreSQL (u otra base de datos compatible con Prisma ORM)
 
+## Configuración e Instalación
 1. **Clonar el repositorio**:
 
    ```bash
