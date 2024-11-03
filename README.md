@@ -1,11 +1,10 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank">
+    <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
+  </a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-# API Parking
+<h1 align="center">API Parking</h1>
 
 ## Prerrequisitos
 
@@ -19,7 +18,6 @@
 
    ```bash
    git clone https://github.com/Kpiro/API-Parking
-   ```
 
 2. **Instalar dependencias**:
    
